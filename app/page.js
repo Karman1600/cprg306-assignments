@@ -7,6 +7,8 @@ export default function Home() {
     <main className="flex flex-col items-center justify-between p-24">
      <h1 className="text-3xl"> CPRG 306: Web Development 2 - Assignments</h1>
      <Link href={"/week-2"}>
-     Week 2 </Link>    </main>
+     Week 2 </Link>
+     <Link href={"/week-3"}>
+     Week 3 </Link>    </main>
   );
 }
